@@ -1,0 +1,22 @@
+Script started on Thu Nov 11 19:35:08 2021
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hmkdir folder1[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hmkdir folder2[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004htouch file1.txt[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004htouch file.txt    2.txt[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004htouch file3.txt[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hmv file1 folder1[?2004l
+mv: rename file1 to folder1/file1: No such file or directory
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hmv file1.txt folder1[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hmv file2.txt folder2[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hls folder1[?2004l
+file1.txt
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hcd ..[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-Arachelgt@UNKNOWN BCD-A % [?2004hrm file3.txt[?2004l
+rm: file3.txt: No such file or directory
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-Arachelgt@UNKNOWN BCD-A % [?2004hrm file3.txt[?2004l
+rm: file3.txt: No such file or directory
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-Arachelgt@UNKNOWN BCD-A % [?2004hpwsd  d[?2004l
+/Users/rachelgt/desktop/BCD-A
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-Arachelgt@UNKNOWN BCD-A % [?2004hcd Command-Line-and-Git-Assessment                         cd Command-Line-and-Git-Assessment[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004hrm file3.txt[?2004l
+%                                                                               ]7;file://UNKNOWN/Users/rachelgt/desktop/BCD-A/Command-Line-and-Git-Assessmentrachelgt@UNKNOWN Command-Line-and-Git-Assessment % [?2004h
